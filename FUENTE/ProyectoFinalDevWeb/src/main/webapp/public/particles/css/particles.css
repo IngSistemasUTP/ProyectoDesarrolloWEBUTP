@@ -1,0 +1,14 @@
+* {
+    margin:0 ;
+  }
+  #particles-js{
+    width: 100%;
+    height: 100%;
+    background: rgb(255, 182, 18);
+    top: 0;
+    z-index: -1; 
+    position: fixed;
+  }
+  #principal{
+      color: rgba(1, 1, 20, 0.88);
+  }
